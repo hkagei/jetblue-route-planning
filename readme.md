@@ -135,7 +135,7 @@ Growth & Opportunities — Strategic Outlook
 
 The story is designed to mirror real airline network planning presentations, moving from high‑level context to detailed analysis to strategic recommendations.
 
-Tableau Public Link: (Add your link here once published.)
+Tableau Public Link: [(https://public.tableau.com/app/profile/hiroyuki.kagei/viz/JetBlueRouteAnalysis/Story1)]
 
 🗄 SQL Replication
 Core analytical steps are reproduced in SQL, including:
